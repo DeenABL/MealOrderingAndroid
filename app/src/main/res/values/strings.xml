@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020Roessler\'s</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close"        >Close navigation drawer</string>
+    <string name="restSite" href="https://www.roesslersrestaurant.com/about">Roessler\'s website</string>
+    <string name="action_settings">Settings</string>
+    <string name="description"> A Lebanese favourite, topped with our special garlic mayo spread.
+            Wrapped and rolled in freshly baked dough.</string>
+</resources>
